@@ -86,6 +86,10 @@ pagination_dir: page
 include:
 exclude:
 ignore:
+  # ignore themes/xxx/node_modules/
+  - "**/node_modules/**"
+  # ignore themes/xxx/.git/ and other hidden files
+  - "**/.*"
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
