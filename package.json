@@ -21,6 +21,6 @@
     "hexo-renderer-marked": "^3.0.0",
     "hexo-renderer-stylus": "^2.0.0",
     "hexo-server": "^2.0.0",
-    "hexo-theme-landscape": "^0.0.1"
+    "hexo-theme-landscape": "^0.0.3"
   }
 }
