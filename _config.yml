@@ -12,9 +12,8 @@ language: en
 timezone: ''
 
 # URL
-## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
+## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: http://example.com
-root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
